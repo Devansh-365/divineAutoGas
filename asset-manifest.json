@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/divineAutoGas/static/css/main.61d0a6bd.chunk.css",
+    "main.js": "/divineAutoGas/static/js/main.daafa6b7.chunk.js",
+    "main.js.map": "/divineAutoGas/static/js/main.daafa6b7.chunk.js.map",
+    "runtime-main.js": "/divineAutoGas/static/js/runtime-main.d26158b2.js",
+    "runtime-main.js.map": "/divineAutoGas/static/js/runtime-main.d26158b2.js.map",
+    "static/js/2.a841949b.chunk.js": "/divineAutoGas/static/js/2.a841949b.chunk.js",
+    "static/js/2.a841949b.chunk.js.map": "/divineAutoGas/static/js/2.a841949b.chunk.js.map",
+    "index.html": "/divineAutoGas/index.html",
+    "static/css/main.61d0a6bd.chunk.css.map": "/divineAutoGas/static/css/main.61d0a6bd.chunk.css.map",
+    "static/js/2.a841949b.chunk.js.LICENSE.txt": "/divineAutoGas/static/js/2.a841949b.chunk.js.LICENSE.txt",
+    "static/media/svg-1.49a288f1.svg": "/divineAutoGas/static/media/svg-1.49a288f1.svg",
+    "static/media/svg-2.20750a9d.svg": "/divineAutoGas/static/media/svg-2.20750a9d.svg",
+    "static/media/svg-3.b782a945.svg": "/divineAutoGas/static/media/svg-3.b782a945.svg",
+    "static/media/video.862c9b48.mp4": "/divineAutoGas/static/media/video.862c9b48.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26158b2.js",
+    "static/js/2.a841949b.chunk.js",
+    "static/css/main.61d0a6bd.chunk.css",
+    "static/js/main.daafa6b7.chunk.js"
+  ]
+}
